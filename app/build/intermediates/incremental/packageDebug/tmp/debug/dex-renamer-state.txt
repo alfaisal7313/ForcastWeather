@@ -1,0 +1,4 @@
+#Sat Aug 24 09:04:16 WIB 2019
+base.0=/Users/MacBook/Desktop/coba/ForcastWeather/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
